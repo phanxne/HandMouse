@@ -56,4 +56,4 @@ Tune sensitivity, smoothing and click timing in the constants at the top of `han
 ## Notes
 
 - Two-hand system zoom sends synthetic trackpad pinch events; if an app ignores them, press `g` to use ctrl+scroll or cmd +/-.
-- macOS only for `handmouse.py` (uses Quartz). The sandbox runs in any modern browser with a webcam.
+- Released under the MIT license. macOS only for `handmouse.py` (uses Quartz). The sandbox runs in any modern browser with a webcam.
