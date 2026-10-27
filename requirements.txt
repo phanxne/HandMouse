@@ -1,0 +1,4 @@
+mediapipe
+opencv-python
+pyobjc-framework-Quartz
+pyobjc-framework-Cocoa
